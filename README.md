@@ -13,35 +13,32 @@ Eine Switch Anweisung wird verwendet, um einen Codeblock von vielen in einem Scr
 Wenn man jetzt den Code startet, wird das gesuchte (Switch) ausgewertet, wenn es mit einem Case übereinstimmt, wird der dem Case den dazugehörigen Code ausgeführt.
 
 **Code**
-            
-            switch (day)
-            {
-                case 1:
-                    Console.WriteLine("Monday");
-                    break;
-                case 2:
-                    Console.WriteLine("Tuesday");
-                    break;
-                case 3:
-                    Console.WriteLine("Wednesday");
-                    break;
-                case 4:
-                    Console.WriteLine("Thursday");
-                    break;
-                case 5:
-                    Console.WriteLine("Friday");
-                    break;
-                case 6:
-                    Console.WriteLine("Saturday");
-                    break;
-                case 7:
-                    Console.WriteLine("Sunday");
-                    break;
-            }
-        }
-    }
+```csharp            
+switch (day)
+{
+    case 1:
+        Console.WriteLine("Monday");
+        break;
+    case 2:
+        Console.WriteLine("Tuesday");
+        break;
+    case 3:
+        Console.WriteLine("Wednesday");
+        break;
+    case 4:
+        Console.WriteLine("Thursday");
+        break;
+    case 5:
+        Console.WriteLine("Friday");
+        break;
+    case 6:
+        Console.WriteLine("Saturday");
+        break;
+    case 7:
+        Console.WriteLine("Sunday");
+        break;
 }
-
+```
 **Bild**
 
 ![image](https://user-images.githubusercontent.com/110892258/184822846-36ea45b4-5160-48fb-b5f1-99c31ad81c96.png)
