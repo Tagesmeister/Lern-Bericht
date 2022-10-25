@@ -57,4 +57,3 @@ Das Erlernen der Schleife zu Hause, ging für mich gut. Ich hatte meinen Eingen 
 Das Negative war, mein Arbeitsplatz war ein bisschen unaufgeräumt, somit war es ein bisschen unpraktisch, dort zu lernen.
 
 **VBV** Für das Nächstemal werde ich meinen Arbeitsplatz gründlich aufräumen, dass mir einen angenehmen Arbeitsplatz zu Verfügung steht.
-
